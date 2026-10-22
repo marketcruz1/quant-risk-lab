@@ -1,0 +1,8 @@
+# Tema de colores de la app (azul noche con acento turquesa)
+[theme]
+base = "dark"
+primaryColor = "#2DD4BF"
+backgroundColor = "#0B1220"
+secondaryBackgroundColor = "#111A2E"
+textColor = "#E6EDF3"
+borderColor = "#1E2A44"
